@@ -1,0 +1,132 @@
+nav.main-nav {
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: #fff;
+}
+nav.main-nav a {
+  color: #ccc;
+  font-weight: 600;
+}
+nav.main-nav a:hover {
+  color: #888;
+}
+
+.post p {
+  font-size: 17px;
+  font-family: Lato;
+}
+
+.profile > #wrapper {
+  /* padding: 0; */
+}
+
+.home#wrapper {
+  padding: 0 20px;
+  margin-top: 58px;
+}
+
+.post#wrapper {
+  padding: 0;
+  margin-top: 58px;
+  max-width: 100%;
+}
+
+.post h1 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.post#wrapper article header {
+  width: 100%;
+}
+
+.post#wrapper article header h1 {
+  margin-top: 30px;
+  font-size: 33px;
+  font-weight: 400;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+.post#wrapper article h2.post-description {
+  font-size: 20px;
+  font-weight: 400;
+  color: #999;
+}
+.post#wrapper footer p {
+  font-size: 14px;
+}
+
+.post-header {
+  margin: 0 auto;
+}
+
+#post-body {
+  padding: 0 20px;
+  color: #555;
+}
+
+
+@media screen and (min-width: 760px) {
+  .post#wrapper header {
+    width: 700px;
+    margin: 0 auto;
+  }
+  .home#wrapper {
+    min-width: 700px!important;
+  }
+  #post-body {
+    max-width: 700px!important;
+    margin: 0 auto;
+  }
+  .post-header {
+    width: 760px;
+  }
+  #post-body {
+    padding: 0 10px;
+  }
+}
+
+pre[class*="language-"] {
+  border-radius: 3px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+code {
+  background: rgb(228, 228, 228);
+  border-radius: 3px;
+  padding: 0 5px;
+  color: #333;
+  font-size: 17px;
+}
+
+blockquote {
+  width: 90%;
+  margin: 0 auto;
+  border-left: none;
+}
+blockquote p {
+  /* background: #eee; */
+  /* border-left: 3px solid #aaa; */
+  /* border-radius: 3px; */
+  text-align: center;
+  font-size: 22px!important;
+  color: #aaa;
+  font-style: italic;
+}
+blockquote .author {
+  color: #aaa;
+  position: relative;
+  text-align: right;
+  font-style: italic;
+  /* right: 50px; */
+  top: -10px;
+  color: #ccc;
+}
+blockquote .author::before {
+  content: "--- ";
+}
+.toolbar {
+  display: none;
+}
