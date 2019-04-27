@@ -1,5 +1,5 @@
 .post p {
-  font-size: 17px;
+  font-size: 20px;
   font-family: Lato;
 }
 
@@ -90,7 +90,7 @@ code {
 }
 
 blockquote {
-  width: 90%;
+  /* width: 90%; */
   margin: 0 auto;
   border-left: none;
 }
@@ -99,7 +99,7 @@ blockquote p {
   /* border-left: 3px solid #aaa; */
   /* border-radius: 3px; */
   text-align: center;
-  font-size: 22px!important;
+  font-size: 24px!important;
   color: #aaa;
   font-style: italic;
 }
