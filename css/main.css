@@ -1,18 +1,3 @@
-nav.main-nav {
-  padding: 20px;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  background: #fff;
-}
-nav.main-nav a {
-  color: #ccc;
-  font-weight: 600;
-}
-nav.main-nav a:hover {
-  color: #888;
-}
-
 .post p {
   font-size: 17px;
   font-family: Lato;
@@ -66,7 +51,6 @@ nav.main-nav a:hover {
   padding: 0 20px;
   color: #555;
 }
-
 
 @media screen and (min-width: 760px) {
   .post#wrapper header {
