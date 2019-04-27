@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>start on My New Hugo Site</title>
+    <link>https://stdargs.com/tags/start/</link>
+    <description>Recent content in start on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2019 22:46:03 +0530</lastBuildDate>
+    
+	<atom:link href="https://stdargs.com/tags/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why start a blog anyway !</title>
+      <link>https://stdargs.com/posts/why-start-a-blog-anyway/</link>
+      <pubDate>Fri, 26 Apr 2019 22:46:03 +0530</pubDate>
+      
+      <guid>https://stdargs.com/posts/why-start-a-blog-anyway/</guid>
+      <description> Get organized Hopefully structure my thoughts Toomany random areas explored and I enjoy it Have a presence  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,8 +15,20 @@
   </url>
   
   <url>
+    <loc>https://stdargs.com/tags/</loc>
+    <lastmod>2019-04-26T22:46:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stdargs.com/posts/why-start-a-blog-anyway/</loc>
     <lastmod>2019-04-26T22:46:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stdargs.com/tags/start/</loc>
+    <lastmod>2019-04-26T22:46:03+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -26,11 +38,6 @@
   
   <url>
     <loc>https://stdargs.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stdargs.com/tags/</loc>
     <priority>0</priority>
   </url>
   
