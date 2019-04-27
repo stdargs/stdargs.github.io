@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://127.0.0.1:8080/</loc>
+    <loc>http://stdargs.com/</loc>
     <lastmod>2019-04-26T22:46:03+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8080/posts/</loc>
+    <loc>http://stdargs.com/posts/</loc>
     <lastmod>2019-04-26T22:46:03+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8080/posts/why-start-a-blog-anyway/</loc>
+    <loc>http://stdargs.com/posts/why-start-a-blog-anyway/</loc>
     <lastmod>2019-04-26T22:46:03+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8080/about/</loc>
+    <loc>http://stdargs.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8080/categories/</loc>
+    <loc>http://stdargs.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:8080/tags/</loc>
+    <loc>http://stdargs.com/tags/</loc>
     <priority>0</priority>
   </url>
   
